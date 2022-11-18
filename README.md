@@ -18,7 +18,7 @@ The training set should be used to build our machine learning models. Our model 
 The test set should be used to see how well our model performs on unseen data.
 
 
-## What to predict:
+## 3.What to predict:
 
 For each passenger in the test set,Our model will be trained to predict whether or not they survived the sinking of the Titanic.
 
