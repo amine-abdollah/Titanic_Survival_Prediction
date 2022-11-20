@@ -22,3 +22,6 @@ The test set should be used to see how well our model performs on unseen data.
 
 For each passenger in the test set,Our model will be trained to predict whether or not they survived the sinking of the Titanic.
 
+## 3.Model And Results:
+
+The Model Used for the prediction is Linear Regression,the Accuracy of the model created is 77,6% after testing it on the test set.
